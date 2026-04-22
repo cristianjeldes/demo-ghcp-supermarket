@@ -1,0 +1,10 @@
+{
+  "name": "demo-ghcp-supermarket",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Supermarket scraper helpers and sh ports",
+  "engines": { "node": ">=16" },
+  "dependencies": {
+    "playwright": "^1.59.1"
+  }
+}
